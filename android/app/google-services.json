@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "98611396879",
+    "project_id": "khabar-a04b4",
+    "storage_bucket": "khabar-a04b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98611396879:android:693977be29c03af18bbe7a",
+        "android_client_info": {
+          "package_name": "com.example.khabar"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwQfKKbq9U0GwEe6MISI0lIDsJJh6OF8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
